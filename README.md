@@ -4,3 +4,5 @@ ocean_boy
   * ocean_boy
 # 杨波董事长
   *杨波董事长 习大大
+# 京东CEO
+  * 刘强东
